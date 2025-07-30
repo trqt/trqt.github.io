@@ -1,0 +1,3 @@
+* My little blog
+
+Thanks [[https:dustycloud.org][Christine Lemmer-Webber]], [[https:dthompson.us][David Thompson]] and [[https:karl.hallsby.com][Karl Hallsby]] for code and inspiration!
